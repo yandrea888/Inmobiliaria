@@ -1,0 +1,33 @@
+<div>
+    <h2>Crear Pedido</h2>
+  
+    <form (ngSubmit)="crearPedido()">
+      <label for="cedula">Cédula:</label>
+      <input type="text" id="cedula" [(ngModel)]="cedula" name="cedula" required>
+  
+      <label for="direccion">Dirección de entrega:</label>
+      <input type="text" id="direccion" [(ngModel)]="direccion" name="direccion" required>
+        
+      <div>
+        <h3>Productos Disponibles</h3>
+        <ul>
+          <li *ngFor="let producto of productos">
+            {{ producto.nombre }} - ${{ producto.precio }}
+            <button (click)="agregarProducto(producto)">Agregar al pedido</button>
+          </li>
+        </ul>
+      </div>
+       
+      <div>
+        <h3>Detalles del pedido</h3>
+        <ul>
+          <li *ngFor="let detalle of detalles">
+            {{ detalle.producto }} - Cantidad: {{ detalle.cantidad }} - Precio: ${{ detalle.precio }}
+          </li>
+        </ul>
+      </div>
+  
+      <button type="submit">Crear Pedido</button>
+    </form>
+  </div>
+  

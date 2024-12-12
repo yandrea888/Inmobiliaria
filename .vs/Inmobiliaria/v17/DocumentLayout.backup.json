@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\y-and\\source\\repos\\Inmobiliaria\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A4624809-8973-43DD-B790-9139682D1CC1}|Inmobiliaria.csproj|c:\\users\\y-and\\source\\repos\\inmobiliaria\\inmobiliaria-frontend\\src\\app\\app.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A4624809-8973-43DD-B790-9139682D1CC1}|Inmobiliaria.csproj|solutionrelative:inmobiliaria-frontend\\src\\app\\app.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4624809-8973-43DD-B790-9139682D1CC1}|Inmobiliaria.csproj|c:\\users\\y-and\\source\\repos\\inmobiliaria\\inmobiliaria-frontend\\src\\app\\app.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A4624809-8973-43DD-B790-9139682D1CC1}|Inmobiliaria.csproj|solutionrelative:inmobiliaria-frontend\\src\\app\\app.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4624809-8973-43DD-B790-9139682D1CC1}|Inmobiliaria.csproj|c:\\users\\y-and\\source\\repos\\inmobiliaria\\inmobiliaria-frontend\\src\\app\\services\\propiedades.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A4624809-8973-43DD-B790-9139682D1CC1}|Inmobiliaria.csproj|solutionrelative:inmobiliaria-frontend\\src\\app\\services\\propiedades.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4624809-8973-43DD-B790-9139682D1CC1}|Inmobiliaria.csproj|c:\\users\\y-and\\source\\repos\\inmobiliaria\\inmobiliaria-frontend\\src\\app\\app.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A4624809-8973-43DD-B790-9139682D1CC1}|Inmobiliaria.csproj|solutionrelative:inmobiliaria-frontend\\src\\app\\app.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4624809-8973-43DD-B790-9139682D1CC1}|Inmobiliaria.csproj|c:\\users\\y-and\\source\\repos\\inmobiliaria\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A4624809-8973-43DD-B790-9139682D1CC1}|Inmobiliaria.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4624809-8973-43DD-B790-9139682D1CC1}|Inmobiliaria.csproj|c:\\users\\y-and\\source\\repos\\inmobiliaria\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4624809-8973-43DD-B790-9139682D1CC1}|Inmobiliaria.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4624809-8973-43DD-B790-9139682D1CC1}|Inmobiliaria.csproj|c:\\users\\y-and\\source\\repos\\inmobiliaria\\models\\propiedad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4624809-8973-43DD-B790-9139682D1CC1}|Inmobiliaria.csproj|solutionrelative:models\\propiedad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4624809-8973-43DD-B790-9139682D1CC1}|Inmobiliaria.csproj|c:\\users\\y-and\\source\\repos\\inmobiliaria\\controllers\\propiedadescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4624809-8973-43DD-B790-9139682D1CC1}|Inmobiliaria.csproj|solutionrelative:controllers\\propiedadescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4624809-8973-43DD-B790-9139682D1CC1}|Inmobiliaria.csproj|c:\\users\\y-and\\source\\repos\\inmobiliaria\\models\\inmobiliariacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4624809-8973-43DD-B790-9139682D1CC1}|Inmobiliaria.csproj|solutionrelative:models\\inmobiliariacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 300,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "app.component.html",
+              "DocumentMoniker": "C:\\Users\\y-and\\source\\repos\\Inmobiliaria\\inmobiliaria-frontend\\src\\app\\app.component.html",
+              "RelativeDocumentMoniker": "inmobiliaria-frontend\\src\\app\\app.component.html",
+              "ToolTip": "C:\\Users\\y-and\\source\\repos\\Inmobiliaria\\inmobiliaria-frontend\\src\\app\\app.component.html",
+              "RelativeToolTip": "inmobiliaria-frontend\\src\\app\\app.component.html",
+              "ViewState": "AgIAACQBAAAAAAAAAAAcwEkBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-11-13T16:14:19.786Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "app.component.ts",
+              "DocumentMoniker": "C:\\Users\\y-and\\source\\repos\\Inmobiliaria\\inmobiliaria-frontend\\src\\app\\app.component.ts",
+              "RelativeDocumentMoniker": "inmobiliaria-frontend\\src\\app\\app.component.ts",
+              "ToolTip": "C:\\Users\\y-and\\source\\repos\\Inmobiliaria\\inmobiliaria-frontend\\src\\app\\app.component.ts",
+              "RelativeToolTip": "inmobiliaria-frontend\\src\\app\\app.component.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-11-13T16:09:35.598Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "propiedades.service.ts",
+              "DocumentMoniker": "C:\\Users\\y-and\\source\\repos\\Inmobiliaria\\inmobiliaria-frontend\\src\\app\\services\\propiedades.service.ts",
+              "RelativeDocumentMoniker": "inmobiliaria-frontend\\src\\app\\services\\propiedades.service.ts",
+              "ToolTip": "C:\\Users\\y-and\\source\\repos\\Inmobiliaria\\inmobiliaria-frontend\\src\\app\\services\\propiedades.service.ts",
+              "RelativeToolTip": "inmobiliaria-frontend\\src\\app\\services\\propiedades.service.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-11-13T16:02:35.357Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "app.module.ts",
+              "DocumentMoniker": "C:\\Users\\y-and\\source\\repos\\Inmobiliaria\\inmobiliaria-frontend\\src\\app\\app.module.ts",
+              "RelativeDocumentMoniker": "inmobiliaria-frontend\\src\\app\\app.module.ts",
+              "ToolTip": "C:\\Users\\y-and\\source\\repos\\Inmobiliaria\\inmobiliaria-frontend\\src\\app\\app.module.ts",
+              "RelativeToolTip": "inmobiliaria-frontend\\src\\app\\app.module.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-11-13T15:56:27.483Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\y-and\\source\\repos\\Inmobiliaria\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\y-and\\source\\repos\\Inmobiliaria\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAIwB4AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T12:43:18.372Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\y-and\\source\\repos\\Inmobiliaria\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\y-and\\source\\repos\\Inmobiliaria\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-09T12:30:19.812Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "InmobiliariaContext.cs",
+              "DocumentMoniker": "C:\\Users\\y-and\\source\\repos\\Inmobiliaria\\Models\\InmobiliariaContext.cs",
+              "RelativeDocumentMoniker": "Models\\InmobiliariaContext.cs",
+              "ToolTip": "C:\\Users\\y-and\\source\\repos\\Inmobiliaria\\Models\\InmobiliariaContext.cs",
+              "RelativeToolTip": "Models\\InmobiliariaContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T12:28:47.133Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PropiedadesController.cs",
+              "DocumentMoniker": "C:\\Users\\y-and\\source\\repos\\Inmobiliaria\\Controllers\\PropiedadesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PropiedadesController.cs",
+              "ToolTip": "C:\\Users\\y-and\\source\\repos\\Inmobiliaria\\Controllers\\PropiedadesController.cs",
+              "RelativeToolTip": "Controllers\\PropiedadesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T12:13:50.581Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Propiedad.cs",
+              "DocumentMoniker": "C:\\Users\\y-and\\source\\repos\\Inmobiliaria\\Models\\Propiedad.cs",
+              "RelativeDocumentMoniker": "Models\\Propiedad.cs",
+              "ToolTip": "C:\\Users\\y-and\\source\\repos\\Inmobiliaria\\Models\\Propiedad.cs",
+              "RelativeToolTip": "Models\\Propiedad.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T12:22:53.716Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
